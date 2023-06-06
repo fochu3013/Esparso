@@ -35,3 +35,12 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+
+// Execute-o usando os nomes dos arquivos como argumentos:
+// detecta_esparso x.txt
+// Saída: ESPARSO
+
+// detecta_esparso y.txt
+// Saída: REGULAR
+
+// imprimirá "ESPARSO" se o arquivo for esparso
